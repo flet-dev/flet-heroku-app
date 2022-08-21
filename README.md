@@ -3,7 +3,9 @@
 This is an example [Flet](https://flet.dev) app that can be deployed to Heroku as a web app.
 
 Use this repository as a starting point for your own app.
+
 In Heroku choose "GitHub" deployment method and select the repository.
+
 A new deployment will automatically start on every push to the repository.
 
 Key points to make Heroku work:
