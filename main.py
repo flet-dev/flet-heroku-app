@@ -84,7 +84,6 @@ def main(page: Page):
         animate_opacity=duration,
     )
 
-    # spread parts randomly
     for i in range(len(parts)):
         canvas.controls.append(
             Container(
@@ -94,6 +93,7 @@ def main(page: Page):
             )
         )
 
+    # spread parts randomly
     def randomize(e):
         random.seed()
         for i in range(len(parts)):
