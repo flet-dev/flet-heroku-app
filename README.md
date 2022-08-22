@@ -1,5 +1,7 @@
 # Flet app hosted on Heroku
 
+[![Heroku Deploy](https://img.shields.io/badge/Heroku-Deploy-orange?logo=heroku)](https://heroku.com/deploy?template=https://github.com/flet-dev/flet-heroku-app)
+
 This is an example [Flet](https://flet.dev) app that can be deployed to Heroku as a web app.
 
 Use this repository as a starting point for your own app.
